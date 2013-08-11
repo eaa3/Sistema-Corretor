@@ -1,6 +1,6 @@
 USER_BD = "if672cc"
 URL_BD = "mysql.cin.ufpe.br/if672cc"
-SENHA_BD = "sL5QsNtUGWP6V94L"
+SENHA_BD = "password"
 pastaCorrecao = "./ArquivosCorrecao/alunos"
 pastaMaterialCorrecao = "./ArquivosCorrecao/material"
 pastaExecucao = "./ArquivosCorrecao/execucao"
